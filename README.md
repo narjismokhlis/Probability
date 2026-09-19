@@ -1,1 +1,1 @@
-Some simple probability simulations and computations 
+Some simple probability simulations and computations in R.
